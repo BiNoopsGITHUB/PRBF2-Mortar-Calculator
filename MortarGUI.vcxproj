@@ -160,6 +160,7 @@
     <ClInclude Include="maps2km_1.h" />
     <ClInclude Include="maps2km_2.h" />
     <ClInclude Include="maps2km_3.h" />
+    <ClInclude Include="maps4km_1.h" />
     <ClInclude Include="maps4km_2.h" />
     <ClInclude Include="maps4km_3.h" />
     <ClInclude Include="resource.h" />
