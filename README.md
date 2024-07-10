@@ -2,6 +2,6 @@
 
 ### **To compile in Visual Studio, use 32bit**
 
-  ![изображение_2024-07-10_163203399](https://github.com/BiNoopsGITHUB/PRBF2-Mortar-Calculator/assets/114951410/147c1e6c-16d7-4573-ba1b-9d328837006b)
+  ![image](https://github.com/BiNoopsGITHUB/PRBF2-Mortar-Calculator/assets/114951410/b5c1259c-7bc8-4dea-bad7-0cae4773fcfb)
 
-  
+  ![image](https://github.com/BiNoopsGITHUB/PRBF2-Mortar-Calculator/assets/114951410/09ee36d1-14d7-44ca-a656-a1d415e1c80c)
